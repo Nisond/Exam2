@@ -1,11 +1,11 @@
 Package: PackageExam2016
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Functions for STAT522 exam
 Version: 0.1
 Date: 2016-06-02
-Author: Who wrote it
+Author: Nis Klausen
 Maintainer: Who to complain to <yourfault@somewhere.net>
-Description: More about what it does (maybe more than one line)
+Description: Contains functions to use in exam project for STAT 522
 License: What license is it under?
 LazyData: TRUE
 RoxygenNote: 5.0.1
